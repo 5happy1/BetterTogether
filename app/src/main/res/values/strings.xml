@@ -1,3 +1,25 @@
 <resources>
-    <string name="app_name">BetterTogether</string>
+    <string name="app_name">Better Together</string>
+    <string name="email_sign_in">Email Sign In</string>
+    <string name="email_sign_up">Email Sign Up</string>
+    <string name="facebook_sign_in">Facebook</string>
+    <string name="google_sign_in">Google</string>
+    <string name="not_implemented_yet">Not implemented yet.</string>
+    <string name="coming_soon">Coming soon&#8230;</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="connection_error">Connection error.</string>
+    <string name="generic_error">An error occurred. Please try again later.</string>
+    <string name="signing_up">Signing up&#8230;</string>
+    <string name="sign_in">Sign In</string>
+    <string name="signing_in">Signing in&#8230;</string>
+    <string name="feed">Feed</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+    <string name="edit_tags">Edit Tags</string>
+    <string name="tag">Tag</string>
+    <string name="add">Add</string>
 </resources>

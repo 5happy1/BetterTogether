@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="BASE_URL">https://8f32908e.ngrok.io/bettertogether/</string>
+
+    <string name="TAG_SUCCESS">success</string>
+    <string name="TAG_MESSAGE">message</string>
+    <string name="TAG_ERROR">error</string>
+    <string name="TAG_ERROR_MESSAGE">error_message</string>
+</resources>
